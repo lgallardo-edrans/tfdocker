@@ -1,2 +1,2 @@
 # tfdocker
-An script to run Terraform using the hashicorp/terraform image container
+A script to run Terraform using the hashicorp/terraform image container
